@@ -4,4 +4,6 @@
 3. 수정3
 4. 수정4
 5. lab1 branch에서 수정함
-6. master branch에서 수정함
+6. lab1 branch에서 재 수정함
+7. master branch에서 수정함
+
